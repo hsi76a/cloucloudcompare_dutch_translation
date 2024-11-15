@@ -218,100 +218,100 @@
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="14"/>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="82"/>
         <source>Animation</source>
-        <translation>Animation</translation>
+        <translation type="unfinished">Animation</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="27"/>
         <source>Animation steps</source>
-        <translation>Animations-Schritte</translation>
+        <translation type="unfinished">Animations-Schritte</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="42"/>
         <source>Loop</source>
-        <translation>Schleife</translation>
+        <translation type="unfinished">Schleife</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="90"/>
         <source>Total duration</source>
-        <translation>Gesamtdauer</translation>
+        <translation type="unfinished">Gesamtdauer</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="97"/>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="161"/>
         <source> sec.</source>
-        <translation> Sekunden</translation>
+        <translation type="unfinished"> Sekunden</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="115"/>
         <source>Automatic steps duration</source>
-        <translation>Automatische Schritt-Dauer</translation>
+        <translation type="unfinished">Automatische Schritt-Dauer</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="128"/>
         <source>Current step</source>
-        <translation>Aktueller Schritt</translation>
+        <translation type="unfinished">Aktueller Schritt</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="137"/>
         <source>Index</source>
-        <translation>Index</translation>
+        <translation type="unfinished">Index</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="151"/>
         <source>Duration</source>
-        <translation>Dauer</translation>
+        <translation type="unfinished">Dauer</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="158"/>
         <source>Speed modifier for the current step</source>
-        <translation>Geschwindigkeits-Modifikator für den aktuellen Schritt</translation>
+        <translation type="unfinished">Geschwindigkeits-Modifikator für den aktuellen Schritt</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="180"/>
         <source>Smooth trajectory</source>
-        <translation>Trajektorie glätten</translation>
+        <translation type="unfinished">Trajektorie glätten</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="189"/>
         <source>smooth ratio</source>
-        <translation>Glättungsverhältnis</translation>
+        <translation type="unfinished">Glättungsverhältnis</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="240"/>
         <source>Video output</source>
-        <translation>Video-Ausgabe</translation>
+        <translation type="unfinished">Video-Ausgabe</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="267"/>
         <source>Frame rate</source>
-        <translation>Frame-Rate</translation>
+        <translation type="unfinished">Frame-Rate</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="274"/>
         <source>Number of frames per second</source>
-        <translation>Anzahl Frames pro Sekunde</translation>
+        <translation type="unfinished">Anzahl Frames pro Sekunde</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="277"/>
         <source> fps</source>
-        <translation> fps</translation>
+        <translation type="unfinished"> fps</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="306"/>
         <source>Bitrate</source>
-        <translation>Bitrate</translation>
+        <translation type="unfinished">Bitrate</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="313"/>
         <source>Bitrate (in kbit/s)
 The higher the better the quality (but the bigger the file)</source>
-        <translation>Bitrate (in kbit/s)
+        <translation type="unfinished">Bitrate (in kbit/s)
 Je höher, desto besser ist die Qualität (und die Dateigröße)</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="317"/>
         <source> kbps</source>
-        <translation> kbps</translation>
+        <translation type="unfinished"> kbps</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="352"/>
@@ -321,7 +321,7 @@ reduce the flicker that is often present in animations). Super resolution is onl
 applied on the output video (= not visible in Preview mode)
 - Zoom: render the frame and the animation at a higher resolution (2, 3 or 4 times
 larger). You may have to increase the points size beforehand.</source>
-        <translation>- Superauflösung: Rendern Sie das Bild mit einer höheren Auflösung (2-, 3- oder 4-mal größer)
+        <translation type="unfinished">- Superauflösung: Rendern Sie das Bild mit einer höheren Auflösung (2-, 3- oder 4-mal größer)
 und dann wieder auf Größe schrumpfen (dadurch fallen einige verrauschte Pixel weg und
  das Flimmern wird reduziert, das oft in Animationen auftritt). Die Superauflösung wird nur
 auf das Ausgabevideo angewendet (im Vorschaumodus nicht sichtbar)
@@ -331,67 +331,67 @@ größer). Eventuell müssen Sie vorher die Punktgröße erhöhen.</translation>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="364"/>
         <source>super resolution</source>
-        <translation>Super-Auflösung</translation>
+        <translation type="unfinished">Super-Auflösung</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="369"/>
         <source>zoom</source>
-        <translation>Zoom</translation>
+        <translation type="unfinished">Zoom</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="377"/>
         <source>See combo-box tooltip</source>
-        <translation>Siehe Combo-Box-ToolTip</translation>
+        <translation type="unfinished">Siehe Combo-Box-ToolTip</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="408"/>
         <source>Output file</source>
-        <translation>Ausgabe-Datei</translation>
+        <translation type="unfinished">Ausgabe-Datei</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="448"/>
         <source>Format</source>
-        <translation>Format</translation>
+        <translation type="unfinished">Format</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="462"/>
         <source>Preview the animation</source>
-        <translation>Vorschau der Animation</translation>
+        <translation type="unfinished">Vorschau der Animation</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="465"/>
         <source>Preview</source>
-        <translation>Vorschau</translation>
+        <translation type="unfinished">Vorschau</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="472"/>
         <source>Creates the animation file</source>
-        <translation>Erzeugt die Animations-Datei</translation>
+        <translation type="unfinished">Erzeugt die Animations-Datei</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="475"/>
         <source>Render</source>
-        <translation>Rendern</translation>
+        <translation type="unfinished">Rendern</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="482"/>
         <source>Export frames as individual images</source>
-        <translation>Frames als Einzelbilder exportieren</translation>
+        <translation type="unfinished">Frames als Einzelbilder exportieren</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="485"/>
         <source>Export frames</source>
-        <translation>Frames exportieren</translation>
+        <translation type="unfinished">Frames exportieren</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="494"/>
         <source>Start preview from selected step</source>
-        <translation>Vorschau vom ausgewählten Schritt starten</translation>
+        <translation type="unfinished">Vorschau vom ausgewählten Schritt starten</translation>
     </message>
     <message>
         <location filename="../../plugins/core/Standard/qAnimation/ui/animationDlg.ui" line="507"/>
         <source>Export trajectory on exit</source>
-        <translation>Trajektorie beim Beenden speichern</translation>
+        <translation type="unfinished">Trajektorie beim Beenden speichern</translation>
     </message>
 </context>
 <context>
@@ -828,12 +828,12 @@ Anderenfalls werden die Beschriftungen in 3D angezeigt.</translation>
     <message>
         <location filename="../ui_templates/askOneDoubleValueDlg.ui" line="12"/>
         <source>Set Value</source>
-        <translation type="unfinished">Wert setzen</translation>
+        <translation>Waarde instellen</translation>
     </message>
     <message>
         <location filename="../ui_templates/askOneDoubleValueDlg.ui" line="20"/>
         <source>Value</source>
-        <translation type="unfinished">Wert</translation>
+        <translation>Waarde</translation>
     </message>
 </context>
 <context>
@@ -841,12 +841,12 @@ Anderenfalls werden die Beschriftungen in 3D angezeigt.</translation>
     <message>
         <location filename="../ui_templates/askOneIntValueDlg.ui" line="12"/>
         <source>Set Value</source>
-        <translation type="unfinished">Wert setzen</translation>
+        <translation>Waarde-invoeren</translation>
     </message>
     <message>
         <location filename="../ui_templates/askOneIntValueDlg.ui" line="20"/>
         <source>Value</source>
-        <translation type="unfinished">Wert</translation>
+        <translation>waarde</translation>
     </message>
 </context>
 <context>
@@ -854,13 +854,13 @@ Anderenfalls werden die Beschriftungen in 3D angezeigt.</translation>
     <message>
         <location filename="../ui_templates/askOneStringDlg.ui" line="12"/>
         <source>Set Name</source>
-        <translatorcomment>Nom</translatorcomment>
-        <translation type="unfinished">Name setzen</translation>
+        <translatorcomment>Naam</translatorcomment>
+        <translation>Naam-invoeren</translation>
     </message>
     <message>
         <location filename="../ui_templates/askOneStringDlg.ui" line="20"/>
         <source>Label</source>
-        <translation type="unfinished">Beschriftung</translation>
+        <translation>Beschriftung</translation>
     </message>
 </context>
 <context>
@@ -5163,7 +5163,7 @@ die andere mit den Punkten, die außerhalb liegen.</translation>
     <message>
         <location filename="../../libs/qCC_io/ui/globalShiftAndScaleAboutDlg.ui" line="14"/>
         <source>Issue with big coordinates</source>
-        <translation type="unfinished">Problem mit großen Koordinaten</translation>
+        <translation>Probleem-met-grote-coördinaten</translation>
     </message>
     <message>
         <location filename="../../libs/qCC_io/ui/globalShiftAndScaleAboutDlg.ui" line="20"/>
@@ -6022,12 +6022,12 @@ The classification SF will be directly updated (and created if needed).</source>
     <message>
         <location filename="../ui_templates/itemSelectionDlg.ui" line="14"/>
         <source>Selection</source>
-        <translation type="unfinished">Auswahl</translation>
+        <translation>Selectie</translation>
     </message>
     <message>
         <location filename="../ui_templates/itemSelectionDlg.ui" line="20"/>
         <source>Please select one %1:</source>
-        <translation type="unfinished">Bitte eine %1 wählen:</translation>
+        <translation>Selecteer-een %1:</translation>
     </message>
 </context>
 <context>
@@ -6894,7 +6894,7 @@ Parameter</translation>
     <message>
         <location filename="../../plugins/core/Standard/qMPlane/ui/mplaneDlg.ui" line="20"/>
         <source>Dialog</source>
-        <translation type="unfinished">Dialog</translation>
+        <translation>Dialoog</translation>
     </message>
 </context>
 <context>
@@ -16982,7 +16982,7 @@ Zellen: %2 x %3</translation>
     <message>
         <location filename="../../plugins/core/IO/qPhotoscanIO/extern/quazip/quazip/quazip/quazipfile.cpp" line="247"/>
         <source>ZIP/UNZIP API error %1</source>
-        <translation type="unfinished">ZIP/UNZIP API-Fehler %1</translation>
+        <translation>ZIP/UNZIP API-FOUT %1</translation>
     </message>
 </context>
 <context>
@@ -20229,7 +20229,7 @@ Sie sollten die leeren Zellen füllen...</translation>
     <message>
         <location filename="../ccEntitySelectionDlg.cpp" line="40"/>
         <source>Select one or several entities:</source>
-        <translation type="unfinished">Wähle eine oder mehrere Entitäten:</translation>
+        <translation type="unfinished">Kies een of meer entiteiten:</translation>
     </message>
 </context>
 <context>
@@ -20322,7 +20322,7 @@ Sie sollten die leeren Zellen füllen...</translation>
     <message>
         <location filename="../../libs/qCC_db/src/ccOctree.cpp" line="776"/>
         <source>Could not compute octree for cloud &apos;%1&apos;</source>
-        <translation type="unfinished">Oktree für Punktwolke „%1“ konnte nicht berechnet werden</translation>
+        <translation>Octree voor Puntenwolk „%1“ kon-niet-berekend-worden</translation>
     </message>
 </context>
 <context>
@@ -21394,7 +21394,7 @@ Anzahl der Punkte: %2</translation>
     <message>
         <location filename="../ccTracePolylineTool.cpp" line="175"/>
         <source>Oversampling polyline: %1 vertices</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oversampling polyline: %1 vertices</translation>
     </message>
 </context>
 <context>
@@ -21415,7 +21415,7 @@ Anzahl der Punkte: %2</translation>
     <message>
         <location filename="../ui_templates/commandLineDlg.ui" line="14"/>
         <source>CloudCompare - command line mode</source>
-        <translation type="unfinished">CloudCompare - Kommandozeilen-Modus</translation>
+        <translation>CloudCompare - commandoregel- modus</translation>
     </message>
 </context>
 <context>
@@ -21712,8 +21712,8 @@ Anzahl der Punkte: %2</translation>
         <location filename="../../plugins/core/Standard/qAnimation/src/qAnimation.cpp" line="73"/>
         <source>%1
 At least 2 viewports must be selected.</source>
-        <translation type="unfinished">%1
-Mindestens zwei Ansichtsfenster müssen ausgewählt werden.</translation>
+        <translation>%1
+minstens-twee-aanzichtvensters-moeten-zijn-geselecteert</translation>
     </message>
 </context>
 <context>
@@ -21761,7 +21761,7 @@ Mindestens zwei Ansichtsfenster müssen ausgewählt werden.</translation>
     <message>
         <location filename="../../plugins/core/Standard/qCSF/src/qCSF.cpp" line="172"/>
         <source>Computing....</source>
-        <translation type="unfinished"></translation>
+        <translation>Berekenen....</translation>
     </message>
 </context>
 <context>
@@ -21769,7 +21769,7 @@ Mindestens zwei Ansichtsfenster müssen ausgewählt werden.</translation>
     <message>
         <location filename="../../plugins/core/Standard/qHoughNormals/src/qHoughNormals.cpp" line="132"/>
         <source>Computing normals...</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitvoeren-normaal-berekening...</translation>
     </message>
 </context>
 <context>
@@ -21777,7 +21777,7 @@ Mindestens zwei Ansichtsfenster müssen ausgewählt werden.</translation>
     <message>
         <location filename="../../plugins/core/Standard/qMeshBoolean/src/qMeshBoolean.cpp" line="330"/>
         <source>Operation in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Operatie-in-uitvoering</translation>
     </message>
 </context>
 <context>
@@ -21785,7 +21785,7 @@ Mindestens zwei Ansichtsfenster müssen ausgewählt werden.</translation>
     <message>
         <location filename="../../plugins/core/Standard/qPCV/src/PCVCommand.cpp" line="148"/>
         <source>No entity is loaded.</source>
-        <translation type="unfinished">Keine Entität geladen.</translation>
+        <translation>Geen-entiteit-geladen</translation>
     </message>
 </context>
 <context>
@@ -21793,7 +21793,8 @@ Mindestens zwei Ansichtsfenster müssen ausgewählt werden.</translation>
     <message>
         <location filename="../../plugins/core/Standard/qPoissonRecon/src/qPoissonRecon.cpp" line="418"/>
         <source>Initialization</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Initialisatie</translation>
     </message>
 </context>
 <context>
@@ -21816,7 +21817,7 @@ Mindestens zwei Ansichtsfenster müssen ausgewählt werden.</translation>
         <location filename="../../plugins/core/Standard/qTreeIso/src/qTreeIso.cpp" line="183"/>
         <location filename="../../plugins/core/Standard/qTreeIso/src/qTreeIso.cpp" line="209"/>
         <source>Computing....</source>
-        <translation type="unfinished"></translation>
+        <translation>Rekenen...</translation>
     </message>
 </context>
 <context>
